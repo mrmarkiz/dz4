@@ -29,7 +29,7 @@ namespace dz4
                     Task3_4.Run3();
                     break;
                 case 4:
-                    Task4_4.Run4();
+                    Task3_4.Run4();
                     break;
             }
         }
